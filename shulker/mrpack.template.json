@@ -1,0 +1,12 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "@version",
+  "name": "@name",
+  "summary": "ShulkerRDK Generated Basement Template",
+  "files": [],
+  "dependencies": {
+    "minecraft": "1.21.1",
+    "neoforge": "21.1.132"
+  }
+}

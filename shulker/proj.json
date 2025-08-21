@@ -3,5 +3,7 @@
   "Version": "0.0.0",
   "RootPath": "./src/",
   "OutPath": "./build/",
-  "DefaultEnvVars": {}
+  "DefaultEnvVars": {
+    "alias.command.^offline$": "task build_offline"
+  }
 }
